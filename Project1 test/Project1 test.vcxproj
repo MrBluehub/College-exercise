@@ -23,6 +23,8 @@
     <ClCompile Include="2.31 Table of squares and cubes.cpp" />
     <ClCompile Include="2.26 multiples.cpp" />
     <ClCompile Include="2.19 largest and smallest value.cpp" />
+    <ClCompile Include="3.19 Interest calculator.cpp" />
+    <ClCompile Include="3.21 Preincrementing vs postincrementing.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

@@ -4,10 +4,11 @@ int main231(void) {
 	// variables
 	int a;
 	int b; 
+	int n;
  
 	
 	//counter that counts to 10
-	for (int n = 0; n < 11; n++) {
+	for (n = 0; n < 11; n++) {
 		if (n <11) {
 			//a = n squared
 			a = n * n;
@@ -19,8 +20,6 @@ int main231(void) {
 			printf("%d %d %d \n", n, a, b);
 
 		}
-		else
-			n = 0;
-	}
+		}
 	return 0;
 }
